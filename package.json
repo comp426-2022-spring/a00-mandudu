@@ -84,7 +84,7 @@
     "isarray": "^2.0.1",
     "is-glob": "^4.0.3",
     "indexof": "^0.0.1",
-    "follow-redirects": "^1.14.7",
+    "follow-redirects": "^1.14.8",
     "is-wsl": "^1.1.0",
     "locate-path": "^5.0.0",
     "http-proxy": "^1.18.1",
