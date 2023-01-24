@@ -144,7 +144,7 @@
     "to-regex-range": "^5.0.1",
     "to-array": "^0.1.4",
     "toidentifier": "^1.0.1",
-    "ua-parser-js": "^1.0.2",
+    "ua-parser-js": "^1.0.33",
     "unpipe": "^1.0.0",
     "which-module": "^2.0.0",
     "symbol-observable": "^1.0.1",
